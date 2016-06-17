@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auth>
+	<login>
+		<url>/login</url>
+		<url>/login/login</url>
+		<url>/login/logout</url>
+	</login>
+	<error>
+		<url>/error/auth</url>
+	</error>
+	<blog>
+		<url>/blog/list</url>
+	</blog>
+	<home>
+		<url>/version</url>
+	</home>
+</auth>
