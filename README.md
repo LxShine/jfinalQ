@@ -8,7 +8,7 @@
 
 jfinalQ2.0
 ---
-官网：http://uikoo9.com/jfinalQ
+官网：
 
 教程：http://uikoo9.com/book/detail/7
 
@@ -39,16 +39,5 @@ jfinalQ2.0
 		4.1 新增了对定时任务cron4j的支持
 		4.2 将搜索页面单独出来
 
-捐助
----
-希望得到您的捐助：
-
-（支付宝捐助）
-
-![zhifubao](http://uikoo9.qiniudn.com/@/img/donate/zhifu2.png)
-
-（微信捐助）
-
-![weixin](http://uikoo9.qiniudn.com/@/img/donate/zhifu1.png)
 
 
